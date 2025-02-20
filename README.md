@@ -1,4 +1,4 @@
-# Podklady k předmětu MT na univerzitě TUL
+# Podklady k předmětu UZO na univerzitě TUL
 
 Tento repozitář obsahuje podklady a vypracované civčení k předmětu UZO na Technické univerzitě v Liberci (TUL).
 
